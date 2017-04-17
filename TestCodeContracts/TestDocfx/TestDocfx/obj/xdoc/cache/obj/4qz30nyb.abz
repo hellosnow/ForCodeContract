@@ -1,0 +1,358 @@
+id: TestDocfx
+language: CSharp
+name:
+  Default: TestDocfx
+qualifiedName:
+  Default: TestDocfx
+type: Assembly
+modifiers: {}
+items:
+- id: TestDocfx
+  language: CSharp
+  name:
+    CSharp: TestDocfx
+    VB: TestDocfx
+  qualifiedName:
+    CSharp: TestDocfx
+    VB: TestDocfx
+  type: Namespace
+  assemblies:
+  - TestDocfx
+  modifiers: {}
+  items:
+  - id: TestDocfx.Program
+    language: CSharp
+    name:
+      CSharp: Program
+      VB: Program
+    qualifiedName:
+      CSharp: TestDocfx.Program
+      VB: TestDocfx.Program
+    type: Class
+    assemblies:
+    - TestDocfx
+    namespace: TestDocfx
+    source:
+      id: Program
+      path: C:\Users\jehuan\Documents\visual studio 2015\Projects\TestDocfx\TestDocfx\Program.cs
+      startLine: 11
+    summary: "\r\nmain class\r\n"
+    example: []
+    syntax:
+      content:
+        CSharp: public class Program
+        VB: Public Class Program
+    inheritance:
+    - System.Object
+    inheritedMembers:
+    - System.Object.ToString
+    - System.Object.Equals(System.Object)
+    - System.Object.Equals(System.Object,System.Object)
+    - System.Object.ReferenceEquals(System.Object,System.Object)
+    - System.Object.GetHashCode
+    - System.Object.GetType
+    - System.Object.MemberwiseClone
+    modifiers:
+      CSharp:
+      - public
+      - class
+      VB:
+      - Public
+      - Class
+    items:
+    - id: TestDocfx.Program.Main(System.String[])
+      language: CSharp
+      name:
+        CSharp: Main(String[])
+        VB: Main(String())
+      qualifiedName:
+        CSharp: TestDocfx.Program.Main(System.String[])
+        VB: TestDocfx.Program.Main(System.String())
+      type: Method
+      assemblies:
+      - TestDocfx
+      namespace: TestDocfx
+      source:
+        id: Main
+        path: C:\Users\jehuan\Documents\visual studio 2015\Projects\TestDocfx\TestDocfx\Program.cs
+        startLine: 17
+      summary: "\r\nmain entrance\r\n"
+      example: []
+      syntax:
+        content:
+          CSharp: public static void Main(string[] args)
+          VB: Public Shared Sub Main(args As String())
+        parameters:
+        - id: args
+          type: System.String[]
+          description: 
+      modifiers:
+        CSharp:
+        - public
+        - static
+        VB:
+        - Public
+        - Shared
+references:
+  System:
+    name:
+      CSharp:
+      - name: System
+        qualifiedName: System
+      VB:
+      - name: System
+        qualifiedName: System
+    isDefinition: true
+  System.Object:
+    name:
+      CSharp:
+      - id: System.Object
+        name: Object
+        qualifiedName: System.Object
+        isExternal: true
+      VB:
+      - id: System.Object
+        name: Object
+        qualifiedName: System.Object
+        isExternal: true
+    isDefinition: true
+    parent: System
+  System.Object.ToString:
+    name:
+      CSharp:
+      - id: System.Object.ToString
+        name: ToString
+        qualifiedName: System.Object.ToString
+        isExternal: true
+      - name: (
+        qualifiedName: (
+      - name: )
+        qualifiedName: )
+      VB:
+      - id: System.Object.ToString
+        name: ToString
+        qualifiedName: System.Object.ToString
+        isExternal: true
+      - name: (
+        qualifiedName: (
+      - name: )
+        qualifiedName: )
+    isDefinition: true
+    parent: System.Object
+  System.Object.Equals(System.Object):
+    name:
+      CSharp:
+      - id: System.Object.Equals(System.Object)
+        name: Equals
+        qualifiedName: System.Object.Equals
+        isExternal: true
+      - name: (
+        qualifiedName: (
+      - id: System.Object
+        name: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: )
+        qualifiedName: )
+      VB:
+      - id: System.Object.Equals(System.Object)
+        name: Equals
+        qualifiedName: System.Object.Equals
+        isExternal: true
+      - name: (
+        qualifiedName: (
+      - id: System.Object
+        name: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: )
+        qualifiedName: )
+    isDefinition: true
+    parent: System.Object
+  System.Object.Equals(System.Object,System.Object):
+    name:
+      CSharp:
+      - id: System.Object.Equals(System.Object,System.Object)
+        name: Equals
+        qualifiedName: System.Object.Equals
+        isExternal: true
+      - name: (
+        qualifiedName: (
+      - id: System.Object
+        name: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: ', '
+        qualifiedName: ', '
+      - id: System.Object
+        name: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: )
+        qualifiedName: )
+      VB:
+      - id: System.Object.Equals(System.Object,System.Object)
+        name: Equals
+        qualifiedName: System.Object.Equals
+        isExternal: true
+      - name: (
+        qualifiedName: (
+      - id: System.Object
+        name: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: ', '
+        qualifiedName: ', '
+      - id: System.Object
+        name: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: )
+        qualifiedName: )
+    isDefinition: true
+    parent: System.Object
+  System.Object.ReferenceEquals(System.Object,System.Object):
+    name:
+      CSharp:
+      - id: System.Object.ReferenceEquals(System.Object,System.Object)
+        name: ReferenceEquals
+        qualifiedName: System.Object.ReferenceEquals
+        isExternal: true
+      - name: (
+        qualifiedName: (
+      - id: System.Object
+        name: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: ', '
+        qualifiedName: ', '
+      - id: System.Object
+        name: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: )
+        qualifiedName: )
+      VB:
+      - id: System.Object.ReferenceEquals(System.Object,System.Object)
+        name: ReferenceEquals
+        qualifiedName: System.Object.ReferenceEquals
+        isExternal: true
+      - name: (
+        qualifiedName: (
+      - id: System.Object
+        name: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: ', '
+        qualifiedName: ', '
+      - id: System.Object
+        name: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: )
+        qualifiedName: )
+    isDefinition: true
+    parent: System.Object
+  System.Object.GetHashCode:
+    name:
+      CSharp:
+      - id: System.Object.GetHashCode
+        name: GetHashCode
+        qualifiedName: System.Object.GetHashCode
+        isExternal: true
+      - name: (
+        qualifiedName: (
+      - name: )
+        qualifiedName: )
+      VB:
+      - id: System.Object.GetHashCode
+        name: GetHashCode
+        qualifiedName: System.Object.GetHashCode
+        isExternal: true
+      - name: (
+        qualifiedName: (
+      - name: )
+        qualifiedName: )
+    isDefinition: true
+    parent: System.Object
+  System.Object.GetType:
+    name:
+      CSharp:
+      - id: System.Object.GetType
+        name: GetType
+        qualifiedName: System.Object.GetType
+        isExternal: true
+      - name: (
+        qualifiedName: (
+      - name: )
+        qualifiedName: )
+      VB:
+      - id: System.Object.GetType
+        name: GetType
+        qualifiedName: System.Object.GetType
+        isExternal: true
+      - name: (
+        qualifiedName: (
+      - name: )
+        qualifiedName: )
+    isDefinition: true
+    parent: System.Object
+  System.Object.MemberwiseClone:
+    name:
+      CSharp:
+      - id: System.Object.MemberwiseClone
+        name: MemberwiseClone
+        qualifiedName: System.Object.MemberwiseClone
+        isExternal: true
+      - name: (
+        qualifiedName: (
+      - name: )
+        qualifiedName: )
+      VB:
+      - id: System.Object.MemberwiseClone
+        name: MemberwiseClone
+        qualifiedName: System.Object.MemberwiseClone
+        isExternal: true
+      - name: (
+        qualifiedName: (
+      - name: )
+        qualifiedName: )
+    isDefinition: true
+    parent: System.Object
+  System.String[]:
+    name:
+      CSharp:
+      - id: System.String
+        name: String
+        qualifiedName: System.String
+        isExternal: true
+      - name: '[]'
+        qualifiedName: '[]'
+      VB:
+      - id: System.String
+        name: String
+        qualifiedName: System.String
+        isExternal: true
+      - name: ()
+        qualifiedName: ()
+    isDefinition: true
+  TestDocfx.Program:
+    name:
+      CSharp:
+      - id: TestDocfx.Program
+        name: Program
+        qualifiedName: TestDocfx.Program
+      VB:
+      - id: TestDocfx.Program
+        name: Program
+        qualifiedName: TestDocfx.Program
+    isDefinition: true
+  TestDocfx:
+    name:
+      CSharp:
+      - name: TestDocfx
+        qualifiedName: TestDocfx
+      VB:
+      - name: TestDocfx
+        qualifiedName: TestDocfx
+    isDefinition: true

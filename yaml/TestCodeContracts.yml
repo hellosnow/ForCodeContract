@@ -1,0 +1,23 @@
+### YamlMime:ManagedReference
+items:
+- uid: TestCodeContracts
+  commentId: N:TestCodeContracts
+  id: TestCodeContracts
+  children:
+  - TestCodeContracts.Program
+  langs:
+  - csharp
+  - vb
+  name: TestCodeContracts
+  nameWithType: TestCodeContracts
+  fullName: TestCodeContracts
+  type: Namespace
+  assemblies:
+  - TestCodeContracts
+references:
+- uid: TestCodeContracts.Program
+  commentId: T:TestCodeContracts.Program
+  isExternal: false
+  name: Program
+  nameWithType: Program
+  fullName: TestCodeContracts.Program

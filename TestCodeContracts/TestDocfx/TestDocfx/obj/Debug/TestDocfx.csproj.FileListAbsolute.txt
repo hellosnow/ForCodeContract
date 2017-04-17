@@ -1,0 +1,5 @@
+c:\users\jehuan\documents\visual studio 2015\Projects\TestDocfx\TestDocfx\bin\Debug\TestDocfx.exe.config
+c:\users\jehuan\documents\visual studio 2015\Projects\TestDocfx\TestDocfx\bin\Debug\TestDocfx.exe
+c:\users\jehuan\documents\visual studio 2015\Projects\TestDocfx\TestDocfx\bin\Debug\TestDocfx.pdb
+c:\users\jehuan\documents\visual studio 2015\Projects\TestDocfx\TestDocfx\obj\Debug\TestDocfx.exe
+c:\users\jehuan\documents\visual studio 2015\Projects\TestDocfx\TestDocfx\obj\Debug\TestDocfx.pdb

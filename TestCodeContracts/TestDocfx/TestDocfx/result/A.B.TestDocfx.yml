@@ -1,0 +1,18 @@
+items:
+- uid: A.B.TestDocfx
+  id: A.B.TestDocfx
+  children:
+  - A.B.TestDocfx.Program
+  langs:
+  - csharp
+  - vb
+  name: A.B.TestDocfx
+  fullName: A.B.TestDocfx
+  type: Namespace
+  assemblies:
+  - TestDocfx
+references:
+- uid: A.B.TestDocfx.Program
+  isExternal: false
+  name: Program
+  fullName: A.B.TestDocfx.Program

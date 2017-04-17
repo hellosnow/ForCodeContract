@@ -1,0 +1,16 @@
+sorted: true
+references:
+- uid: A.B.TestDocfx
+  name: A.B.TestDocfx
+  href: A.B.TestDocfx.html#A_B_TestDocfx
+  fullName: A.B.TestDocfx
+- uid: A.B.TestDocfx.Program
+  name: Program
+  href: A.B.TestDocfx.Program.html#A_B_TestDocfx_Program
+  fullName: A.B.TestDocfx.Program
+- uid: A.B.TestDocfx.Program.Main(System.String[])
+  name: Main(String[])
+  href: A.B.TestDocfx.Program.html#A_B_TestDocfx_Program_Main_System_String___
+  name.vb: Main(String())
+  fullName: A.B.TestDocfx.Program.Main(System.String[])
+  fullName.vb: A.B.TestDocfx.Program.Main(System.String())

@@ -1,0 +1,5 @@
+- uid: A.B.TestDocfx
+  name: A.B.TestDocfx
+  items:
+  - uid: A.B.TestDocfx.Program
+    name: Program

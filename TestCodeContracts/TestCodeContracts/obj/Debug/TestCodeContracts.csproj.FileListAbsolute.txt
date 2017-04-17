@@ -1,0 +1,5 @@
+c:\users\jehuan\documents\visual studio 2015\Projects\TestCodeContracts\TestCodeContracts\bin\Debug\TestCodeContracts.exe.config
+c:\users\jehuan\documents\visual studio 2015\Projects\TestCodeContracts\TestCodeContracts\bin\Debug\TestCodeContracts.exe
+c:\users\jehuan\documents\visual studio 2015\Projects\TestCodeContracts\TestCodeContracts\bin\Debug\TestCodeContracts.pdb
+c:\users\jehuan\documents\visual studio 2015\Projects\TestCodeContracts\TestCodeContracts\obj\Debug\TestCodeContracts.exe
+c:\users\jehuan\documents\visual studio 2015\Projects\TestCodeContracts\TestCodeContracts\obj\Debug\TestCodeContracts.pdb
